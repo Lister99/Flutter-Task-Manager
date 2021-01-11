@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-97857840/android.flashy_tab_bar.iml" filepath="$PROJECT_DIR$/.idea/modules/-97857840/android.flashy_tab_bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1034093263/android.flutter_local_notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/-1034093263/android.flutter_local_notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-184790260/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-184790260/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/287550685/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/287550685/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-788950986/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-788950986/android.sqflite.iml" />
+    </modules>
+  </component>
+</project>
